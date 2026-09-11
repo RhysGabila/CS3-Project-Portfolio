@@ -10,11 +10,11 @@
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
 | **Team Members**           | 1.      |
-|                            | 2.      |
-|                            | 3.      |
-|                            | 4.      |
-|                            | 5.      |
-|                            | 6.      |
+|  Rhys Fredric G. Gabila    | 2.      |
+|  Heshei D. Fernandez       | 3.      |
+|  Marion Elvio F. Salarda   | 4.      |
+|  Brian R. Palado           | 5.      |
+|  Carl Odie F. Juanillo     | 6.      |
 | **PSHS-DRC Area/Location** |         |
 
 ---
