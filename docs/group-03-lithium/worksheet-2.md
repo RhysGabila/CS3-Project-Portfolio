@@ -67,10 +67,10 @@ Not every object needs to become a class. Choose only the objects that are impor
 
 | No. | Class | What does it represent? |
 |:---:|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
+| 1 |Student |The person trying to accomplish the clearance |
+| 2 |Faculty & Staff |The people signing the clearance to help Student accomplish it |
+| 3 |Advisor |The person that signs and monitors the clearance of the Student |
+| 4 |Clearance |What the Student is trying to accomplish and what the Faculty & Staff signs |
 | 5 | | |
 
 ---
